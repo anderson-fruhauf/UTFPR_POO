@@ -2,9 +2,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - ButtonTest",
+            "name": "CodeLens (Launch) - CheckBoxTest",
             "request": "launch",
-            "mainClass": "buttontest.ButtonTest"
+            "mainClass": "aula2_23_08_checkbox.CheckBoxTest",
+            "projectName": "ButtonTest"
         }
     ]
 }
